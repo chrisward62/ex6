@@ -6,7 +6,7 @@ import Calculator from './Components/Calculator/Calculator';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ex6">
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/Dashboard" element={<Dashboard />} />
