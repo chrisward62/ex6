@@ -1,0 +1,13 @@
+.dashboard-container {
+    text-align: center;
+    padding: 0px;
+    background: #f4f4f4;
+    min-height: 100vh;
+}
+
+.featured {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 4 columns */
+    gap: 20px; /* space between items */
+    padding: 20px;
+}
