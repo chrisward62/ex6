@@ -1,5 +1,5 @@
 {
-  "name": "ex6",
+  "name": "tttcalc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://[your-github-username].github.io/tttcalc",
+  "homepage": "https://chrisward62.github.io/ex6",
   "eslintConfig": {
     "extends": [
       "react-app",
